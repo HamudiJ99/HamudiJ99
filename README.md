@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 I am a Systems Engineer with a passion for developing innovative solutions and working on complex systems. <br>My journey in software development started during my bachelor studies, where I discovered <br>my enthusiasm for embedded systems and system software. I enjoy tackling challenging <br>problems and building efficient, scalable applications.<br>Outside of tech, I'm a passionate runner and swimmer, like going cycling, and enjoy hiking in the mountains.<br><br>🔭 I’m currently working on https://contentlab-6d713.web.app/home<br>🌱 I’m currently learning about software architecture <br>
 
